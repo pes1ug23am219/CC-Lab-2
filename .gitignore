@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# PDF files
+PES1UG23AM219.pdf
+# OR (if you want to ignore all PDFs)
+# *.pdf
